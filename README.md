@@ -12,11 +12,6 @@ This repository showcases a sophisticated Tic Tac Toe game featuring an AI oppon
 - [Advanced Features](#advanced-features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [File Structure](#file-structure)
-- [In-Depth Minimax Implementation](#in-depth-minimax-implementation)
-- [Performance Considerations](#performance-considerations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
