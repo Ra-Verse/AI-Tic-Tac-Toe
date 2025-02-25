@@ -33,7 +33,7 @@ To experience the advanced AI Tic Tac Toe, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/Ra-Verse/AI-Tic-Tac-Toe.git](https://github.com/Ra-Verse/AI-Tic-Tac-Toe.git)
+    git clone https://github.com/Ra-Verse/AI-Tic-Tac-Toe.git
     ```
 
 2.  **Navigate to the project directory:**
